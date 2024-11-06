@@ -1,4 +1,3 @@
-# PDSI-BIA202401-E01
 # Reconhecimento de Gênero Musical
 
 Este trabalho aborda a classificação automática de músicas em gêneros como jazz, rock e clássico, utilizando técnicas de processamento digital de sinais e aprendizado de máquina. Com o aumento da quantidade de músicas disponíveis em plataformas de streaming, a categorização automática em gêneros facilita a organização de bibliotecas, a personalização de recomendações e a busca em arquivos de áudio [1]. Nosso objetivo é identificar características dos sinais de áudio, como frequência, ritmo, timbre e melodia, que possam ser utilizadas para distinguir padrões de cada gênero, desenvolvendo modelos de classificação de alta precisão e aplicabilidade prática.
