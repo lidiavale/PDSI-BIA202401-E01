@@ -6,5 +6,5 @@ Para isso, usaremos o **GTZAN Music Genre Dataset** [2], amplamente reconhecido 
 
 ## Referências
 
-[1] X. Cai e H. Zhang, “Music genre classification based on auditory image, spectral and acoustic features”, *Multimedia Syst.*, janeiro de 2022. Disponível: [https://doi.org/10.1007/s00530-021-00886-3](https://doi.org/10.1007/s00530-021-00886-3)  
+[1] X. Cai e H. Zhang, “Music genre classification based on auditory image, spectral and acoustic features”, *Multimedia Syst.*, janeiro de 2022. Acesso em 05/11/2024. Disponível: [https://doi.org/10.1007/s00530-021-00886-3](https://doi.org/10.1007/s00530-021-00886-3)  
 [2] “GTZAN Dataset - Music Genre Classification”. *Kaggle: Your Machine Learning and Data Science Community*. Acesso em 05/11/2024. Disponível: [https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification/data](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification/data)
