@@ -69,7 +69,7 @@ A metodologia também incluiu a implementação de uma rede neural utilizando a 
 
 Para cada modelo, foi feita a avaliação do seu desempenho com métricas calculadas, que incluem a Acurácia, que mede a proporção de previsões corretas; o F1-Score (Macro), que avalia o equilíbrio entre precisão e revocação para todas as classes de maneira uniforme; e a Precisão Top-3, que verifica se a classe correta está entre as três principais previsões do modelo. Além disso, foi gerada uma matriz de confusão para visualizar como o modelo classificou corretamente ou confundiu as diferentes classes.
 
-## IV. Resultados
+## IV. Resultados e Conclusões
 
 Os resultados obtidos no trabalho demonstraram o desempenho dos diferentes algoritmos de aprendizado de máquina na classificação de gêneros musicais. Durante os testes, foi possível observar que os modelos apresentaram resultados variados, refletindo suas características específicas e adaptações aos dados fornecidos. A Tabela 1 apresenta os resultados obtidos.
 
@@ -110,7 +110,7 @@ Fig. 7  Matriz de confusão da Rede Neural
 
 Fig. 8  Evolução da acurácia e do erro a Rede Neural
 
-Os resultados deste trabalho mostram a eficácia de técnicas de processamento de sinais e aprendizado de máquina na classificação de gêneros musicais, destacando o CatBoost como o algoritmo mais eficienteseguido por Random Forest, Gradient Boosting e Rede Neural. A análise de características presentes no dataset revelou padrões úteis para o treinamento de modelos, enquanto a rede neural desenvolvida mostrou potencial para cenários mais complexos. O estudo reforça a importância da escolha de características e algoritmos, mas aponta limitações na base GTZAN devido a inconsistências entre gêneros. Futuras pesquisas devem explorar bases mais amplas e arquiteturas avançadas, como CNNs, para melhorias significativas e aplicações práticas na indústria musical.
+Os resultados deste trabalho mostram a eficácia de técnicas de processamento de sinais e aprendizado de máquina na classificação de gêneros musicais, destacando o CatBoost como o algoritmo mais eficiente, seguido por Random Forest, Gradient Boosting e Rede Neural. A análise de características presentes no dataset revelou padrões úteis para o treinamento de modelos, enquanto a rede neural desenvolvida mostrou potencial para cenários mais complexos. O estudo reforça a importância da escolha de características e algoritmos, mas aponta limitações na base GTZAN devido a inconsistências entre gêneros. Futuras pesquisas devem explorar bases mais amplas e arquiteturas avançadas, como CNNs, para melhorias significativas e aplicações práticas na indústria musical.
 
 
 ## Referências
