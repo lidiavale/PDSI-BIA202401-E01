@@ -12,6 +12,9 @@ MIRMILA SOCRATES DO NASCIMENTO - 202306723
 
 NATÃ MILHOMEM LEMOS - 202305744
 
+[🗣 Apresentação](https://drive.google.com/file/d/161ANs8Y8F3Dz1TMrOFk41SCr0QIXG1y-/view?usp=sharing)
+
+[🖥️ Slides](https://drive.google.com/file/d/161ANs8Y8F3Dz1TMrOFk41SCr0QIXG1y-/view?usp=sharing)
 
 # Reconhecimento de Gênero Musical
 
